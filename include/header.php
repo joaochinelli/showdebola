@@ -4,9 +4,11 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no">
   <title>.: Arena Show de Bola | Esporte & Lazer :.</title>
-  <meta name="description" content="LuzMed" />
+  <meta name="description" content="Ambiente para quem quer praticar esportes ou apenas relaxar com os amigos, dos mais jovens aos mais experientes." />
   <meta name="robots" content="index,follow" />
-  <meta name="author" content="Rotieh" />
+  <meta property="og:title" content="Arena Show de Bola">
+  <meta property="og:image" content="imgs/capa.jpg">
+  <meta name="author" content="Rotieh Digital" />
   <meta name="theme-color" content="#3c3c3b">
 
   <link rel="icon" type="image/png" sizes="16x16" href="imgs/favicon.png" />
